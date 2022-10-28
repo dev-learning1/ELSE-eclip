@@ -110,8 +110,8 @@
                               <button class="signUpButton" type="button">회원가입/로그인</button>
                           </li>
                           <li class="leftDivision">
-                              <a class="dashboardButton" href="/dashboard">기업 서비스11111111111111111111111111</a>
-                          </li>                        
+                              <a class="dashboardButton" href="/dashboard">기업 서비스222222222222222222</a>
+                          </li>                
                       </ul>
                   </aside>
               </nav>
